@@ -1,1 +1,1 @@
-# SolveIssueAdapter
+# Solve issue Adapter
